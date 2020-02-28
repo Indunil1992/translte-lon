@@ -4,12 +4,12 @@
       "513f9b8c-9634-4401-bca4-ecfe01965b36": {
         "id": "513f9b8c-9634-4401-bca4-ecfe01965b36",
         "parent": null,
-        "name": "lambda.js",
+        "name": "lambdaasz.js",
         "type": "JS_LAMBDA",
         "isDirectory": false,
         "children": [],
         "isRemovable": true,
-        "filePath": "lambda.js",
+        "filePath": "lambdaasz.js",
         "cursor": {
           "lineNumber": 10,
           "column": 35
@@ -69,7 +69,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1582866235328
+    "lastSave": 1582866319030
   },
   "VCS_STATE": {
     "provider": "GitHub",
